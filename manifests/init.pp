@@ -5,7 +5,7 @@
 #     include transmit
 class transmit {
   package { 'Transmit':
-    source   => 'http://www.panic.com/transmit/d/Transmit%204.4.zip',
+    source   => 'http://www.panic.com/transmit/d/Transmit%204.4.3.zip',
     provider => 'compressed_app'
   }
 }
