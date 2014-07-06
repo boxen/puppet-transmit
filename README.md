@@ -6,6 +6,12 @@ Installs Transmit, a great FTP / SFTP / etc client from Panic.
 
 http://panic.com/transmit/
 
+## Usage
+
+```puppet
+include transmit
+```
+
 ## Required Puppet Modules
 
 * `boxen`
